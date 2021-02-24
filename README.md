@@ -15,8 +15,5 @@ Federated Learning setup in this repo:
 Below is an example of the generated data: 
 ![RealandFakeABP](./Figures/Real_PPG_and_Fake_ABP.jpg)
 
-Bland-Altman Plot of Mean Arterial Pressure from test dataset
-![MAP_BA_LSTM_full_cal](./Figures/MAP_BA_LSTM_full_cal.jpg)
-
 
 

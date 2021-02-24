@@ -12,10 +12,6 @@ The TimeSeries-to-TimeSeries Architecture:
 Federated Learning setup in this repo: 
 ![FedGAN](./Figures/FedGAN.jpg)
 
-Federated Learning setup in real-world scenario: 
-
-![FedGANRW](./Figures/FedGAN_RW.jpg)
-
 Below is an example of the generated data: 
 ![RealandFakeABP](./Figures/Real_PPG_and_Fake_ABP.jpg)
 
